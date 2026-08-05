@@ -33,3 +33,5 @@ pytest -q
 - **planner** — descompone la incidencia en pasos
 - **technician** — recupera SOPs y propone acciones
 - **safety_critic** — revisa LOTO / EPP / riesgos
+
+<!-- meta:sync 1785965775 -->
